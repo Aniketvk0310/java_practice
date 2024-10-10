@@ -1,0 +1,13 @@
+6 August 2024
+
+Intro to java
+1991 to 1996 
+- dev James Gosling
+
+java has many parts:
+-J2SE    [ java standard edition ]     - core java (we will learn this)
+-J2EE    [ java enterprise edition ]   - most complicated one that is we learn many things over here
+-J2ME    [ java micro edition ]        - used for mobile dev
+
+another java developer from iit delhi Vinod khosla friend of James Gosling -- sun microsystem
+java is an name of the coffee 
